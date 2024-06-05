@@ -10,7 +10,7 @@ import {
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 
-export function LoginForm() {
+function Lorm() {
   return (
     <Card className="w-full max-w-sm">
       <CardHeader>
@@ -35,4 +35,4 @@ export function LoginForm() {
     </Card>
   )
 }
-export default LoginForm;
+export default Lorm;
